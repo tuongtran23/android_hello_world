@@ -1,4 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
+## HELLO FROM CODY
 
 ### App Description
 This is an Android app display Hello message that can change color based on button click.
